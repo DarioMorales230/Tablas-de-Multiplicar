@@ -2,6 +2,8 @@
 
 #Morales Henry
 
+**CODIGO**
+
 package com.mycompany.tablas_de_multiplicar;
 
 import java.util.*;
@@ -104,7 +106,7 @@ public class Tablas_de_Multiplicar {
     }
 }
 
-**Resultado**
+**RESULTADO**
 
 ![Imagen de WhatsApp 2024-11-25 a las 00 34 01_b48da2ed](https://github.com/user-attachments/assets/c1494bce-e7a7-419d-84e4-450ffb59d41a)
 
