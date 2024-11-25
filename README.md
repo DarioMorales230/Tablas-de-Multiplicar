@@ -103,3 +103,19 @@ public class Tablas_de_Multiplicar {
         scanner.close(); // Cierra el objeto Scanner
     }
 }
+
+**Resultado**
+
+![Imagen de WhatsApp 2024-11-25 a las 00 34 01_b48da2ed](https://github.com/user-attachments/assets/c1494bce-e7a7-419d-84e4-450ffb59d41a)
+
+![Imagen de WhatsApp 2024-11-25 a las 00 34 35_91224db9](https://github.com/user-attachments/assets/0874d62a-4e2b-47b0-a3f3-5c1ab87f144c)
+
+
+
+
+
+
+
+
+
+
